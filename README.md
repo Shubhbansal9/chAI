@@ -1,6 +1,6 @@
-# allen
+# chAI
 
-A new Flutter project.
+chAI: Voice Assistant App with ChatGPT and Dall-E AI Image Generation
 
 ## Getting Started
 
